@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "ram: this is ma"
-echo "prasad: this is ni"
+echo "ram: this is ni"
