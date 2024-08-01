@@ -21,4 +21,5 @@ else
    echo "install is success"
 
 f1
+
    yum install git -y  
