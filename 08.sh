@@ -4,6 +4,8 @@ ID=$(id -u)
 
 if [ $ID -ge 0 ]
 then
-   echo "show error ur not root user"
+   echo "error: ur not root user"
+else
+   echo "you r root user"
 
 fi
